@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+.main{
+    display: flex;
+    border: black 4px solid;
+    background-color: lightgreen;
+}
+.image{
+    margin-top: 50px;
+    background-color: lightgreen;
+    padding: 20px;
+}
+.image img{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: -25px;
+    left: 25px;
+    border-radius: 50px;
+}
+.main a{
+text-decoration: none;
+background-color: black;
+padding: 8px;
+border-radius: 12px;
+color: white;
+}
+.details{
+    margin-bottom: 20px;
+    background-color: lightgreen;
+    width: 800px;
+    padding: 50px;
+}
